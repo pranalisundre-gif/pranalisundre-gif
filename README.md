@@ -50,15 +50,6 @@ Information Technology Student | Data Science Enthusiast | Machine Learning | Py
 
 ## 🚀 Featured Projects
 
-### 🎁 GiftznMoney AI Platform
-- Customer Churn Prediction
-- Customer Lifetime Value Prediction
-- Fraud Detection
-- Recommendation System
-- Flask + Machine Learning + Power BI
-
----
-
 ### 🧠 Brain Tumor Detection System
 - Deep Learning using PyTorch
 - Medical Image Classification
