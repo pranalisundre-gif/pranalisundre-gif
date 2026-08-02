@@ -125,22 +125,6 @@ Information Technology Student | Data Science Enthusiast | Machine Learning | Py
 
 </p>
 
-## 🔥 GitHub Streak
-
-<p align="center">
-
-<img src="https://streak-stats.demolab.com?user=pranaliundre-gif&theme=tokyonight&hide_border=true"/>
-
-</p>
-
-## 👀 Profile Views
-
-<p align="center">
-
-<img src="https://komarev.com/ghpvc/?username=pranaliundre-gif&label=Profile%20Views&color=blueviolet&style=flat"/>
-
-</p>
-
 ## 🌱 Currently Learning
 
 - Machine Learning
