@@ -18,6 +18,14 @@ Information Technology Student | Data Science Enthusiast | Machine Learning | Py
 
 ## 🛠️ Tech Stack
 
+<p align="center">
+<img src="https://skillicons.dev/icons?i=python,mysql,flask,git,github,vscode,html,css,js" />
+</p>
+
+<p align="center">
+<img src="https://go-skill-icons.vercel.app/api/icons?i=pandas,numpy,sklearn,pytorch,powerbi" />
+</p>
+
 ### Programming Languages
 - Python
 - SQL
@@ -107,10 +115,52 @@ Information Technology Student | Data Science Enthusiast | Machine Learning | Py
 
 ---
 
+## 📊 GitHub Stats
+
+<p align="center">
+
+<img height="170" src="https://github-readme-stats.vercel.app/api?username=pranaliundre-gif&show_icons=true&theme=tokyonight&hide_border=true"/>
+
+<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaliundre-gif&layout=compact&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 🔥 GitHub Streak
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=pranaliundre-gif&theme=tokyonight&hide_border=true"/>
+
+</p>
+
+## 👀 Profile Views
+
+<p align="center">
+
+<img src="https://komarev.com/ghpvc/?username=pranaliundre-gif&label=Profile%20Views&color=blueviolet&style=flat"/>
+
+</p>
+
+## 🌱 Currently Learning
+
+- Machine Learning
+- Deep Learning
+- Generative AI
+- Data Engineering
+
 ## 📫 Connect With Me
 
-- 📧 Email: pranalisundre@gmail.com
-- 💼 LinkedIn: https://www.linkedin.com/in/pranali-undre-8216903a2/
+<p align="left">
+
+<a href="https://www.linkedin.com/in/pranali-undre-8216903a2/">
+<img src="https://skillicons.dev/icons?i=linkedin"/>
+</a>
+
+<a href="mailto:pranalisundre@gmail.com">
+<img src="https://skillicons.dev/icons?i=gmail"/>
+</a>
+
+</p>
 
 ---
 
