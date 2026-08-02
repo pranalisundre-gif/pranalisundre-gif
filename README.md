@@ -110,17 +110,7 @@ Information Technology Student | Data Science Enthusiast | Machine Learning | Py
 - Machine Learning
 - Deep Learning
 - Generative AI
-- AWS Cloud
 - Advanced Power BI
-
----
-
-## 🌱 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Data Engineering
 
 ## 📫 Connect With Me
 
