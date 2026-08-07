@@ -11,7 +11,6 @@ Information Technology Student | Data Science Enthusiast | Machine Learning | Py
 - 🎓 Information Technology Student passionate about solving real-world problems using Data Science and Artificial Intelligence.
 - 💡 Interested in Machine Learning, Data Analytics, Business Intelligence, and Software Development.
 - 📊 Experienced in building Machine Learning models, Power BI dashboards, and data-driven web applications.
-- 🌱 Currently learning advanced Machine Learning, Generative AI, and Cloud Technologies.
 - 🎯 Looking for opportunities as a Data Scientist, Machine Learning Engineer, or Data Analyst.
 
 ---
@@ -104,13 +103,6 @@ Information Technology Student | Data Science Enthusiast | Machine Learning | Py
 - Regional Performance Dashboard
 
 ---
-
-## 📚 Currently Learning
-
-- Machine Learning
-- Deep Learning
-- Generative AI
-- Advanced Power BI
 
 ## 📫 Connect With Me
 
