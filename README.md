@@ -105,31 +105,6 @@ Information Technology Student | Data Science Enthusiast | Machine Learning | Py
 
 ---
 
-## 📊 GitHub Statistics
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranaliundre-gif&show_icons=true&theme=github_dark&hide_border=true" height="170"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranaliundre-gif&layout=compact&theme=github_dark&hide_border=true" height="170"/>
-</p>
-
-## 🔥 GitHub Streak
-
-<p align="center">
-<img src="https://streak-stats.demolab.com?user=pranaliundre-gif&theme=github-dark-blue&hide_border=true"/>
-</p>
-
-## 🏆 GitHub Trophies
-
-<p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=pranaliundre-gif&theme=algolia&no-frame=true&margin-w=15&row=1"/>
-</p>
-
-## 👀 Profile Views
-
-<p align="center">
-<img src="https://komarev.com/ghpvc/?username=pranaliundre-gif&label=Profile%20Views&color=0e75b6&style=flat"/>
-</p>
-
 ## 📚 Currently Learning
 
 - Machine Learning
