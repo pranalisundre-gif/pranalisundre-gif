@@ -151,10 +151,8 @@ https://github.com/pranalisundre-gif/Super-Store-Sales-Dashboard
 
 # 🌱 Currently Learning
 
-- Advanced Machine Learning
-- Data Analytics
-- Power BI & DAX
-- SQL
+- Deep Learning
+- Advance Power BI & DAX
 - Full-Stack Development
 - Cloud Technologies
 - Machine Learning Model Deployment
@@ -190,6 +188,15 @@ I'm particularly interested in opportunities where I can continue learning, work
   <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
 </a>
 
+<a href="mailto: pranalisundre@gmail.com">
+  <img src="https://img.shields.io/badge/Email-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email">
+</a>
+
+</p>
+
+<p align="center">
+  📧 <strong>pranalisundre@gmail.com</strong>
+</p>
 </p>
 
 <p align="center">
