@@ -8,7 +8,7 @@
   <a href="https://github.com/pranalisundre-gif">
     <img src="https://img.shields.io/badge/GitHub-pranalisundre--gif-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub">
   </a>
-  <a href="YOUR_LINKEDIN_URL">
+  <a href="https://www.linkedin.com/in/pranali-undre-8216903a2/">
     <img src="https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn">
   </a>
 </p>
@@ -164,15 +164,6 @@ https://github.com/pranalisundre-gif/Super-Store-Sales-Dashboard
 My goal is to build a career in **Data Science, Machine Learning, or Data Analytics**, where I can apply technology and data-driven approaches to solve practical business problems.
 
 I'm particularly interested in opportunities where I can continue learning, work with real-world datasets, and build solutions that create measurable value.
-
----
-
-# 📊 GitHub Activity
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=pranalisundre-gif&show_icons=true&theme=tokyonight&hide_border=true" height="170">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=pranalisundre-gif&layout=compact&theme=tokyonight&hide_border=true" height="170">
-</p>
 
 ---
 
